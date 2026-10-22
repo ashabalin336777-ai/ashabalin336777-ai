@@ -15,5 +15,6 @@ MVP с AI за дни. Открыт к роли AI Product Builder.
 - **PAC** — поиск электронных компонентов и подбор аналогов: цены, наличие, datasheet.
 
 Telegram: [@ShaLtd](https://t.me/ShaLtd)
+Email: [shabalin336777@mail.ru](mailto:shabalin336777@mail.ru)
 
 Код в приватных репозиториях, покажу на созвоне или дам доступ по запросу.
