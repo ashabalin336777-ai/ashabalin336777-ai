@@ -2,7 +2,8 @@
 
 AI Product Builder · Новосибирск
 
-MVP с AI за дни: агенты, RAG, Next.js, Python. Ищу работу.
+MVP с AI за дни. Открыт к роли AI Product Builder. 
+Удалёнка или Новосибирск.
 
 ## Проекты
 
